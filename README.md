@@ -1,3 +1,7 @@
+![Unknown](https://user-images.githubusercontent.com/108880724/214191902-69444842-a3ae-4d87-98a6-25c06489492b.png)
+
+
+
 # Lithofacies-Prediction
 A Machine Learning Model to predict the Lithofacies of a well based on Open Hole Log Reading
 # Inspiration Behind This Project
